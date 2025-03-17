@@ -1,12 +1,16 @@
-# React + Vite
+# Foody Zone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foody Zone is a React-based web application showcasing a variety of delicious food items with their descriptions and prices. Built with Vite for fast development and optimal performance.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version here: [Foody Zone Live](https://foody-zone-e14kmox3e-mohamednaeemms-projects.vercel.app/)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive menu display
+- Individual dish components showing:
+  - Food image
+  - Dish name
+  - Description
+  - Price
