@@ -4,7 +4,7 @@ Foody Zone is a React-based web application showcasing a variety of delicious fo
 
 ## Live Demo
 
-Check out the live version here: [Foody Zone Live](https://foody-zone-e14kmox3e-mohamednaeemms-projects.vercel.app/)
+Check out the live version here: [Foody Zone Live](https://foody-zone-mohamednaeemms-projects.vercel.app/)
 
 ## Features
 
